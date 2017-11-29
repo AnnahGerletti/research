@@ -5,7 +5,6 @@
   - Dom Tree
   - Event Bubbling 
   - CSS selecting 
-  - [codeceptJS] (https://github.com/AnnahGerletti/research/blob/master/codecept.md)
-  - ATDD
+  - codeceptJS
   - S.A.A.S
     - software as a service 
