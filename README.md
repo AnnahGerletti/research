@@ -5,7 +5,7 @@
   - Dom Tree
   - Event Bubbling 
   - CSS selector
-  - [codeceptJS](codecept.md)
+  - [codeceptJS](codeceptJS.md)
   - ATDD
   - CSS selecting 
   - codeceptJS
