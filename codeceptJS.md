@@ -15,12 +15,26 @@ Codecept's framework is writen with a BDD-style syntax.Each test is writen in a 
 
 
 # what do you need to run codeceptJS?
+All you need to do is describe a test scenario with a JavaScript DSL and allow the framework to do the rest. 
 
+With the use of CSS selectors you can locate an element, interact with them, then check to make sure you are seeing what you want on a given page. 
+
+using Nightmare helpers - high-level browser automation library. fastest headless testing
+
+needs nightmare and nightmare-upload packages to be installed
+
+- this might have happened when I loaded codecept??  
+
+[nightmare](http://codecept.io/helpers/Nightmare/)
+
+uses CSS selectors to run commands.??
 
 
 # HOw can I use codeceptJS?
 
-##Notes:
+
+
+## Notes:
 Codeceptjs - is the java script verson 
 codeception - is the php test version
 
