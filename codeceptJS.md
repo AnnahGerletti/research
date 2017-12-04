@@ -32,7 +32,8 @@ needs nightmare and nightmare-upload packages to be installed
 statements.
 - it uses API calls to run easy sequential acceptance tests.
 - uses ELECTRON which a cross platform desktop app framework, modern and fastest
--
+- automating interactions with web browsers
+- 
 
 uses CSS selectors to run commands.??
 
